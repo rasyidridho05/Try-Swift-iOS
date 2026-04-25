@@ -11,9 +11,9 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		5EFC6E9F2F9B5981003AC740 /* iOS APP */ = {
+		5EFC6E9F2F9B5981003AC740 /* iOS App Test */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = "iOS APP";
+			path = "iOS App Test";
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -32,7 +32,7 @@
 		5EFC6E942F9B5981003AC740 = {
 			isa = PBXGroup;
 			children = (
-				5EFC6E9F2F9B5981003AC740 /* iOS APP */,
+				5EFC6E9F2F9B5981003AC740 /* iOS App Test */,
 				5EFC6E9E2F9B5981003AC740 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -61,7 +61,7 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				5EFC6E9F2F9B5981003AC740 /* iOS APP */,
+				5EFC6E9F2F9B5981003AC740 /* iOS App Test */,
 			);
 			name = "iOS APP";
 			packageProductDependencies = (
